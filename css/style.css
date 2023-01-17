@@ -1,5 +1,4 @@
 body {
-    color:rgb(165, 42, 42);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -17,4 +16,17 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#cabecera {
+    height: 50px;
+    width: 900px;
+    background-color: rgb(26, 26, 109);
+    text-decoration: red;
+    
+}
+
+#cabecera p {
+    color:white;
+    font-weight: bold;
 }

@@ -19,13 +19,26 @@ body {
 }
 
 #cabecera {
-    height: 50px;
-    width: 900px;
-    background-color: rgb(151, 32, 121);
-    text-decoration: red;
+    background: rgb(151, 32, 121);
+    width: 940px;
+    margin: 0;
+    padding: 0.5em 0 0.5em 3em;
+    position: relative;
+    right: 16px;
+    bottom: 55px;
 }
+
+#logo {
+    width: 40px;
+    position: relative;
+    top:55px;
+    right: 40px;
+}
+
 
 #cabecera p {
     color:white;
     font-weight: bold;
+    font-size: 24px;
 }
+

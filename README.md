@@ -11,6 +11,8 @@ Un blog para el curso de Git y Github de platzi meta probar comando como un loco
 
 * basicamente aprender lo esencial para poder trabajar en equipo GRACIAS FREDDy TKM
 
+* DO YOU KNOW THE LEGEND OF PIPO?
+
 posdata: todo esto es joda, es solo para divertirme mientras aprendo, este proyecto no es nada serio, es solo para poner en practica el conocimiento aprendido.
 
 

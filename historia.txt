@@ -15,18 +15,3 @@ y eso es todo tio
 y yo soy seba y soy una maquina peol
 
 master 1
-
-master 2
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
-experimento 1
-
-experimento 2
->>>>>>> 79fb010 (exp2)

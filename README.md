@@ -13,6 +13,8 @@ Un blog para el curso de Git y Github de platzi meta probar comando como un loco
 
 * DO YOU KNOW THE LEGEND OF PIPO?
 
+* Linux es la luuuzzz broter
+
 posdata: todo esto es joda, es solo para divertirme mientras aprendo, este proyecto no es nada serio, es solo para poner en practica el conocimiento aprendido.
 
 

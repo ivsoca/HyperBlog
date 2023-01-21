@@ -14,5 +14,11 @@ y eso es todo tio
 	 
 y yo soy seba y soy una maquina peol
 
+<<<<<<< HEAD
 
 master 1 
+=======
+master 1
+
+experimento 1
+>>>>>>> bab831b ( exp1)

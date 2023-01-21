@@ -15,6 +15,8 @@ Un blog para el curso de Git y Github de platzi meta probar comando como un loco
 
 * Linux es la luuuzzz broter
 
+* disponible pa todo musndo chimba gonorrea
+
 posdata: todo esto es joda, es solo para divertirme mientras aprendo, este proyecto no es nada serio, es solo para poner en practica el conocimiento aprendido.
 
 
